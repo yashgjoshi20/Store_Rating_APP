@@ -1,4 +1,3 @@
-# Store_Rating_APP
 # Store Rating App
 
 A simple full-stack application for rating stores (1–5 stars).
